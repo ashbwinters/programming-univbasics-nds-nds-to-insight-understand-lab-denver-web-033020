@@ -13,7 +13,7 @@ end
 
 
 
-#[{:name=>"Stephen Spielberg",
+#[{:name=>"Stephen Spielberg", #
 #       +  :movies=>
 #       +   [{:title=>"Jaws",
 #       +     :studio=>"Universal",
